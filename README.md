@@ -17,11 +17,16 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
   
 **Functional Requirements**  
   
-**1.Question Classification:**  
+**1. Question Classification:**  
 **Feature:** Training questions are automatically categorized into specific categories according to topic and level of difficulty.  
 **Result:** During training,developers can quickly find particular questions.  
   
-**2.Question and Answer Separation:**  
+**2. Question and Answer Separation:**  
 **Feature:** Keep the solutions in an area with restricted access. Until developers verify that they have tried the query, answers are displayed.  
 **Result:** Encourages self-evaluation and makes sure developers use their knowledge before finding answers.  
   
+**3. Method of Tagging:**
+**Features:** Allow questions to be tagged with keywords (e.g., themes, difficulty levels).  
+**Result:** Developers are able to browse and filter training materials based on their own requirements.  
+  
+
