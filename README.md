@@ -41,3 +41,10 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 **Feature:** Includes safeguards against noncompliance with data privacy laws such as the CCPA and GDPR.  
 **Result:** Reduces legal risks and guarantees moral AI development.  
   
+**System Requirements**  
+**1. Indexed Data Structure:** It is important to optimize a database structure to enable quick searching of tags and questions.  
+**2. Controlled Answer Access:** A feature that requires user confirmation before displaying responses should be implemented by the system.  
+**3. Both automated and manual tagging:** AI-generated tags ought to be able to be manually improved by developers.  
+**4. Dashboard for Bias Analysis:** A user-friendly interface should show bias metrics along with recommended remedial measures.  
+**5. Biased Data User Alerts:** When biases or imbalances are found, users should be notified automatically.  
+**6. Role-Based Access Control (RBAC):** Only individuals with permission should be able to alter data.  
