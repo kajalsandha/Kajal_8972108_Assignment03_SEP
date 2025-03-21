@@ -33,3 +33,8 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 **Feature:** Put algorithms in place to automatically rebalance the data and detect biases in the dataset.  
 **Result:** Assures that training data is impartial, varied, and appropriate for all use cases.  
   
+**5. Bias Reporting in Real Time:**  
+**Feature:** Instantly notify users when biased or unbalanced data is found and offer fixing suggestions.  
+**Result:** Enables developers to quickly raise the level of training.  
+  
+
