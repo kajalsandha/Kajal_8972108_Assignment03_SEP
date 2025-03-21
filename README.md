@@ -29,4 +29,7 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 **Features:** Allow questions to be tagged with keywords (e.g., themes, difficulty levels).  
 **Result:** Developers are able to browse and filter training materials based on their own requirements.  
   
-
+**4. Finding Bias and Rebalancing Data:**  
+**Feature:** Put algorithms in place to automatically rebalance the data and detect biases in the dataset.  
+**Result:** Assures that training data is impartial, varied, and appropriate for all use cases.  
+  
