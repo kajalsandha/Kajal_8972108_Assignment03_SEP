@@ -7,7 +7,7 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 **1. Keeping Questions and solutions Separate:-** Before developers receive the solutions, they should be able to evaluate their understanding by responding to questions. This facilitates learning and self-affirmation.  
 **2. Maintaining Fair and Balanced Data:-**  To produce AI models that are accurate and fair, the training data must be varied and devoid of bias.  
   
-**Assumptions**
+**Assumptions**  
 1. Finding relevant data takes less time when material is well-structured and indexed.  
 2. Developers are encouraged to independently verify their understanding when answers are delayed.  
 3. By improving search performance, tagging enables developers to find particular training materials more rapidly.  
@@ -21,4 +21,7 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 **Feature:** Training questions are automatically categorized into specific categories according to topic and level of difficulty.  
 **Result:** During training,developers can quickly find particular questions.  
   
-
+**2.Question and Answer Separation:**  
+**Feature:** Keep the solutions in an area with restricted access. Until developers verify that they have tried the query, answers are displayed.  
+**Result:** Encourages self-evaluation and makes sure developers use their knowledge before finding answers.  
+  
