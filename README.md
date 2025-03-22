@@ -3,11 +3,13 @@
 **Project:-** AI Training Data Management System  
   
 **Project Overview**  
+  
 To train AI models, our customer, an AI developer, uses web scraping to gather publicly accessible data. But they have two major obstacles to overcome:  
 **1. Keeping Questions and solutions Separate:-** Before developers receive the solutions, they should be able to evaluate their understanding by responding to questions. This facilitates learning and self-affirmation.  
 **2. Maintaining Fair and Balanced Data:-**  To produce AI models that are accurate and fair, the training data must be varied and devoid of bias.  
   
 **Assumptions**  
+  
 1. Finding relevant data takes less time when material is well-structured and indexed.  
 2. Developers are encouraged to independently verify their understanding when answers are delayed.  
 3. By improving search performance, tagging enables developers to find particular training materials more rapidly.  
@@ -42,6 +44,7 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 **Result:** Reduces legal risks and guarantees moral AI development.  
   
 **System Requirements**  
+  
 **1. Indexed Data Structure:** It is important to optimize a database structure to enable quick searching of tags and questions.  
 **2. Controlled Answer Access:** A feature that requires user confirmation before displaying responses should be implemented by the system.  
 **3. Both automated and manual tagging:** AI-generated tags ought to be able to be manually improved by developers.  
@@ -50,6 +53,7 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 **6. Role-Based Access Control (RBAC):** Only individuals with permission should be able to alter data.  
   
 **Validation Questions**  
+  
 1. Does automatic categorization speed up the process of finding relevant training data for developers?  
 2. Does delayed access to answers improve the self-assessment process and learning outcomes?  
 3. Are tags an effective tool for simplifying searches and reducing retrieval time?  
@@ -57,3 +61,22 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 5. Are the bias reports easy to interpret and actionable for developers?  
 6. Are access control measures adequate in preventing unauthorized use of sensitive training data?  
   
+**Preliminary Tasks**  
+  
+1. **Clarifying and finalizing requirements:**  
+ * Complete the specific criteria by conducting seminars and client interviews.  
+ * Record every expectation that the client has for the system.  
+2. **Strategy for Gathering and Preparing Data:**  
+ * Describe a plan for gathering and preparing a variety of excellent training data.  
+ * During data collecting, make sure that ethical and data privacy rules are followed.  
+3. **Design of the System Architecture:**  
+ * Create a system-wide blueprint that is both scalable and maintainable.  
+4. **Framework for Tagging and Categorization:**  
+* Create a schema that allows questions to be tagged according to topic, level of difficulty, and other criteria.  
+* Put in place automated and configurable classification systems.  
+5. **System for detecting bias and rebalancing data:**  
+* Create methods to efficiently detect and rebalance biased data.  
+* Make actionable suggestions and bias alerts in real time.  
+6. **Respect for Data Privacy Laws:**  
+* Include provisions that guarantee that data usage conforms with the CCPA and GDPR.  
+* Perform routine audits and compliance inspections.  
