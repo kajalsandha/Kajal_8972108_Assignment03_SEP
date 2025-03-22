@@ -15,13 +15,13 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 2. Developers are encouraged to independently verify their understanding when answers are delayed.  
 **Question:** Does delayed access to answers improve the self-assessment process and learning outcomes?   
 3. By improving search performance, tagging enables developers to find particular training materials more rapidly.  
-**Question:**Are tags an effective tool for simplifying searches and reducing retrieval time?  
+**Question:** Are tags an effective tool for simplifying searches and reducing retrieval time?  
 4. AI algorithms that have been trained on impartial, balanced data perform better and are more equitable.  
-**Question:**Do AI models trained on rebalanced datasets outperform those trained on imbalanced data?  
+**Question:** Do AI models trained on rebalanced datasets outperform those trained on imbalanced data?  
 5.  Dataset enhancements are streamlined through real-time bias identification and reporting.  
-**Question:**Are the bias reports easy to interpret and actionable for developers?  
+**Question:** Are the bias reports easy to interpret and actionable for developers?  
 6. Compliance to the CCPA and GDPR guarantees moral AI development and steers clear of possible legal problems.  
-**Question:**Are access control measures adequate in preventing unauthorized use of sensitive training data?  
+**Question:** Are access control measures adequate in preventing unauthorized use of sensitive training data?  
   
 **Functional Requirements**  
   
