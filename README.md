@@ -48,3 +48,12 @@ To train AI models, our customer, an AI developer, uses web scraping to gather p
 **4. Dashboard for Bias Analysis:** A user-friendly interface should show bias metrics along with recommended remedial measures.  
 **5. Biased Data User Alerts:** When biases or imbalances are found, users should be notified automatically.  
 **6. Role-Based Access Control (RBAC):** Only individuals with permission should be able to alter data.  
+  
+**Validation Questions**  
+1. Does automatic categorization speed up the process of finding relevant training data for developers?  
+2. Does delayed access to answers improve the self-assessment process and learning outcomes?  
+3. Are tags an effective tool for simplifying searches and reducing retrieval time?  
+4. Do AI models trained on rebalanced datasets outperform those trained on imbalanced data?  
+5. Are the bias reports easy to interpret and actionable for developers?  
+6. Are access control measures adequate in preventing unauthorized use of sensitive training data?  
+  
